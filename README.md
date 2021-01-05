@@ -6,7 +6,7 @@
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/carlos-rafael-1903771b4">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/carlos-rafael-1903771b4" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedInCarlosRafael-282A36?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.github.com/CarlosZoft?tab=followers">
