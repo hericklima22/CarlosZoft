@@ -6,7 +6,7 @@
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/carlos-rafael-1903771b4">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedInCarlosRafael-282A36?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
