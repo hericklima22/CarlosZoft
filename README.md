@@ -1,7 +1,12 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Carlos Zoft's github stats](https://github-readme-stats.vercel.app/api?username=CarlosZoft&show_icons=true&theme=dark)
+# Hi, there &#128512;
+
+   My name's Carlos Rafael, I am a software engineering student at UnB. 
+I am currently venturing into the world of web development. 	&#129321;
+
+![Carlos Zoft's github stats](https://github-readme-stats.vercel.app/api?username=CarlosZoft&show_icons=true&theme=dark)
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosZoft&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosZoft&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 <br/>
