@@ -1,9 +1,9 @@
 # Hi, there &#128512;
 
-   <h3>My name's Carlos Rafael, I am a software engineering student at UnB. 
-I am currently venturing into the world of web development. 	&#129321;</h3>
+   <h3>My name's Carlos Rafael; I am a software engineering student at UnB.currently venturing into the world of web development, and applications.	&#129321;</h3>
+<hr>
 
-![Carlos Zoft's github stats](https://github-readme-stats.vercel.app/api?username=CarlosZoft&show_icons=true&theme=merko)
+![Carlos Zoft's github stats](https://github-readme-stats.vercel.app/api?username=CarlosZoft&show_icons=true&theme=highcontrast)
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosZoft&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
