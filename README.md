@@ -1,6 +1,6 @@
 # Hi, there &#128512;
 
-   <h3>My name's Carlos Rafael; I am a software engineering student at UnB. Currently venturing into the world of web development, and applications.	&#129321;</h3>
+   <h3>My name's Carlos Rafael; I am a software engineering student at UnB. Currently venturing into the world of web development, and apps.	&#129321;</h3>
 <hr>
 
 ![Carlos Zoft's github stats](https://github-readme-stats.vercel.app/api?username=CarlosZoft&show_icons=true&theme=highcontrast)
