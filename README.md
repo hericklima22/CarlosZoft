@@ -6,7 +6,7 @@
 
 -  Software Engineering student at University of Brasilia.
 -  I’m currently studying on web development technologies like JavaScript, Node, etc.
--  I’m currently learning about Backend, Frontend and Software development. 
+-  I’m currently learning about Backend, Frontend and Algorithms. 
 -  Future Goals: Contribute more to the community and learn more about new technologies that arise.
 
 
