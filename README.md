@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif"/>
 
 -  Software Engineering student at University of Brasilia.
--  I’m currently studying on web development technologies like JavaScript, Node, etc.
+-  I’m currently studying on web development technologies like JavaScript, Node and React-Native.
 -  I’m currently learning about Backend, Frontend and Algorithms. 
 -  Future Goals: Contribute more to the community and learn more about new technologies that arise.
 
